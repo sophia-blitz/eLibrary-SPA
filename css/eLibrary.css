@@ -1,0 +1,20 @@
+#main{
+  padding:20px 0px;
+}
+footer{
+  position: fixed;
+  bottom:0;
+  width:100%;
+}
+.hidden{
+  display:none;
+}
+#booksTable {
+  margin-top:10px;
+}
+#booksTable td{
+  vertical-align: middle;
+}
+nav a:hover{
+  cursor: pointer;
+}
